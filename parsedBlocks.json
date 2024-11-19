@@ -1,0 +1,548 @@
+[
+  {
+    "blockSeq": "1",
+    "t_start": 0,
+    "t_end": 49.174,
+    "t_duration": 49.174,
+    "audioPath": "reverses/chunk_0.mp3"
+  },
+  {
+    "blockSeq": "2",
+    "t_start": 49.216,
+    "t_end": 62.437,
+    "t_duration": 13.222,
+    "audioPath": "reverses/chunk_1.mp3"
+  },
+  {
+    "blockSeq": "3",
+    "t_start": 62.479,
+    "t_end": 79.246,
+    "t_duration": 16.767,
+    "audioPath": "reverses/chunk_2.mp3"
+  },
+  {
+    "blockSeq": "4",
+    "t_start": 79.288,
+    "t_end": 94.094,
+    "t_duration": 14.806,
+    "audioPath": "reverses/chunk_3.mp3"
+  },
+  {
+    "blockSeq": "5",
+    "t_start": 94.136,
+    "t_end": 110.861,
+    "t_duration": 16.725,
+    "audioPath": "reverses/chunk_4.mp3"
+  },
+  {
+    "blockSeq": "6",
+    "t_start": 110.902,
+    "t_end": 142.225,
+    "t_duration": 31.323,
+    "audioPath": "reverses/chunk_5.mp3"
+  },
+  {
+    "blockSeq": "7",
+    "t_start": 142.267,
+    "t_end": 167.709,
+    "t_duration": 25.442,
+    "audioPath": "reverses/chunk_6.mp3"
+  },
+  {
+    "blockSeq": "8",
+    "t_start": 167.751,
+    "t_end": 192.401,
+    "t_duration": 24.65,
+    "audioPath": "reverses/chunk_7.mp3"
+  },
+  {
+    "blockSeq": "9",
+    "t_start": 192.442,
+    "t_end": 257.048,
+    "t_duration": 64.606,
+    "audioPath": "reverses/chunk_8.mp3"
+  },
+  {
+    "blockSeq": "10",
+    "t_start": 257.09,
+    "t_end": 317.692,
+    "t_duration": 60.602,
+    "audioPath": "reverses/chunk_9.mp3"
+  },
+  {
+    "blockSeq": "11",
+    "t_start": 317.734,
+    "t_end": 384.801,
+    "t_duration": 67.067,
+    "audioPath": "reverses/chunk_10.mp3"
+  },
+  {
+    "blockSeq": "12",
+    "t_start": 384.843,
+    "t_end": 394.436,
+    "t_duration": 9.593,
+    "audioPath": "reverses/chunk_11.mp3"
+  },
+  {
+    "blockSeq": "13",
+    "t_start": 394.477,
+    "t_end": 437.437,
+    "t_duration": 42.96,
+    "audioPath": "reverses/chunk_12.mp3"
+  },
+  {
+    "blockSeq": "14",
+    "t_start": 437.479,
+    "t_end": 455.955,
+    "t_duration": 18.477,
+    "audioPath": "reverses/chunk_13.mp3"
+  },
+  {
+    "blockSeq": "15",
+    "t_start": 455.997,
+    "t_end": 483.483,
+    "t_duration": 27.486,
+    "audioPath": "reverses/chunk_14.mp3"
+  },
+  {
+    "blockSeq": "16",
+    "t_start": 483.525,
+    "t_end": 523.565,
+    "t_duration": 40.04,
+    "audioPath": "reverses/chunk_15.mp3"
+  },
+  {
+    "blockSeq": "17",
+    "t_start": 523.606,
+    "t_end": 561.478,
+    "t_duration": 37.871,
+    "audioPath": "reverses/chunk_16.mp3"
+  },
+  {
+    "blockSeq": "18",
+    "t_start": 561.519,
+    "t_end": 671.379,
+    "t_duration": 109.86,
+    "audioPath": "reverses/chunk_17.mp3"
+  },
+  {
+    "blockSeq": "19",
+    "t_start": 671.421,
+    "t_end": 687.604,
+    "t_duration": 16.183,
+    "audioPath": "reverses/chunk_18.mp3"
+  },
+  {
+    "blockSeq": "20",
+    "t_start": 687.645,
+    "t_end": 693.776,
+    "t_duration": 6.131,
+    "audioPath": "reverses/chunk_19.mp3"
+  },
+  {
+    "blockSeq": "21",
+    "t_start": 693.818,
+    "t_end": 702.201,
+    "t_duration": 8.383,
+    "audioPath": "reverses/chunk_20.mp3"
+  },
+  {
+    "blockSeq": "22",
+    "t_start": 702.243,
+    "t_end": 727.352,
+    "t_duration": 25.108,
+    "audioPath": "reverses/chunk_21.mp3"
+  },
+  {
+    "blockSeq": "23",
+    "t_start": 727.393,
+    "t_end": 759.676,
+    "t_duration": 32.282,
+    "audioPath": "reverses/chunk_22.mp3"
+  },
+  {
+    "blockSeq": "24",
+    "t_start": 759.717,
+    "t_end": 804.929,
+    "t_duration": 45.212,
+    "audioPath": "reverses/chunk_23.mp3"
+  },
+  {
+    "blockSeq": "25",
+    "t_start": 804.971,
+    "t_end": 842.342,
+    "t_duration": 37.371,
+    "audioPath": "reverses/chunk_24.mp3"
+  },
+  {
+    "blockSeq": "26",
+    "t_start": 842.383,
+    "t_end": 850.266,
+    "t_duration": 7.883,
+    "audioPath": "reverses/chunk_25.mp3"
+  },
+  {
+    "blockSeq": "27",
+    "t_start": 850.308,
+    "t_end": 869.994,
+    "t_duration": 19.686,
+    "audioPath": "reverses/chunk_26.mp3"
+  },
+  {
+    "blockSeq": "28",
+    "t_start": 870.036,
+    "t_end": 910.785,
+    "t_duration": 40.749,
+    "audioPath": "reverses/chunk_27.mp3"
+  },
+  {
+    "blockSeq": "29",
+    "t_start": 910.827,
+    "t_end": 921.629,
+    "t_duration": 10.802,
+    "audioPath": "reverses/chunk_28.mp3"
+  },
+  {
+    "blockSeq": "30",
+    "t_start": 921.671,
+    "t_end": 1056.973,
+    "t_duration": 135.302,
+    "audioPath": "reverses/chunk_29.mp3"
+  },
+  {
+    "blockSeq": "31",
+    "t_start": 1057.014,
+    "t_end": 1117.658,
+    "t_duration": 60.644,
+    "audioPath": "reverses/chunk_30.mp3"
+  },
+  {
+    "blockSeq": "32",
+    "t_start": 1117.7,
+    "t_end": 1171.754,
+    "t_duration": 54.054,
+    "audioPath": "reverses/chunk_31.mp3"
+  },
+  {
+    "blockSeq": "33",
+    "t_start": 1171.796,
+    "t_end": 1306.222,
+    "t_duration": 134.426,
+    "audioPath": "reverses/chunk_32.mp3"
+  },
+  {
+    "blockSeq": "34",
+    "t_start": 1306.263,
+    "t_end": 1462.961,
+    "t_duration": 156.698,
+    "audioPath": "reverses/chunk_33.mp3"
+  },
+  {
+    "blockSeq": "35",
+    "t_start": 1463.003,
+    "t_end": 1498.414,
+    "t_duration": 35.41,
+    "audioPath": "reverses/chunk_34.mp3"
+  },
+  {
+    "blockSeq": "36",
+    "t_start": 1498.455,
+    "t_end": 1638.136,
+    "t_duration": 139.681,
+    "audioPath": "reverses/chunk_35.mp3"
+  },
+  {
+    "blockSeq": "37",
+    "t_start": 1638.178,
+    "t_end": 1789.454,
+    "t_duration": 151.276,
+    "audioPath": "reverses/chunk_36.mp3"
+  },
+  {
+    "blockSeq": "38",
+    "t_start": 1789.496,
+    "t_end": 1966.131,
+    "t_duration": 176.635,
+    "audioPath": "reverses/chunk_37.mp3"
+  },
+  {
+    "blockSeq": "39",
+    "t_start": 1966.173,
+    "t_end": 2089.254,
+    "t_duration": 123.081,
+    "audioPath": "reverses/chunk_38.mp3"
+  },
+  {
+    "blockSeq": "40",
+    "t_start": 2089.296,
+    "t_end": 2263.178,
+    "t_duration": 173.882,
+    "audioPath": "reverses/chunk_39.mp3"
+  },
+  {
+    "blockSeq": "41",
+    "t_start": 2263.219,
+    "t_end": 2288.661,
+    "t_duration": 25.442,
+    "audioPath": "reverses/chunk_40.mp3"
+  },
+  {
+    "blockSeq": "42",
+    "t_start": 2288.703,
+    "t_end": 2329.953,
+    "t_duration": 41.25,
+    "audioPath": "reverses/chunk_41.mp3"
+  },
+  {
+    "blockSeq": "43",
+    "t_start": 2329.994,
+    "t_end": 2380.67,
+    "t_duration": 50.676,
+    "audioPath": "reverses/chunk_42.mp3"
+  },
+  {
+    "blockSeq": "44",
+    "t_start": 2380.712,
+    "t_end": 2420.585,
+    "t_duration": 39.873,
+    "audioPath": "reverses/chunk_43.mp3"
+  },
+  {
+    "blockSeq": "45",
+    "t_start": 2420.627,
+    "t_end": 2465.338,
+    "t_duration": 44.711,
+    "audioPath": "reverses/chunk_44.mp3"
+  },
+  {
+    "blockSeq": "46",
+    "t_start": 2465.38,
+    "t_end": 2525.94,
+    "t_duration": 60.56,
+    "audioPath": "reverses/chunk_45.mp3"
+  },
+  {
+    "blockSeq": "47",
+    "t_start": 2525.982,
+    "t_end": 2560.933,
+    "t_duration": 34.952,
+    "audioPath": "reverses/chunk_46.mp3"
+  },
+  {
+    "blockSeq": "48",
+    "t_start": 2560.975,
+    "t_end": 2573.696,
+    "t_duration": 12.721,
+    "audioPath": "reverses/chunk_47.mp3"
+  },
+  {
+    "blockSeq": "49",
+    "t_start": 2573.738,
+    "t_end": 2606.145,
+    "t_duration": 32.407,
+    "audioPath": "reverses/chunk_48.mp3"
+  },
+  {
+    "blockSeq": "50",
+    "t_start": 2606.187,
+    "t_end": 2615.154,
+    "t_duration": 8.967,
+    "audioPath": "reverses/chunk_49.mp3"
+  },
+  {
+    "blockSeq": "51",
+    "t_start": 2615.196,
+    "t_end": 2652.733,
+    "t_duration": 37.537,
+    "audioPath": "reverses/chunk_50.mp3"
+  },
+  {
+    "blockSeq": "52",
+    "t_start": 2652.775,
+    "t_end": 2786.2,
+    "t_duration": 133.425,
+    "audioPath": "reverses/chunk_51.mp3"
+  },
+  {
+    "blockSeq": "53",
+    "t_start": 2786.242,
+    "t_end": 2821.944,
+    "t_duration": 35.702,
+    "audioPath": "reverses/chunk_52.mp3"
+  },
+  {
+    "blockSeq": "54",
+    "t_start": 2821.986,
+    "t_end": 2854.81,
+    "t_duration": 32.824,
+    "audioPath": "reverses/chunk_53.mp3"
+  },
+  {
+    "blockSeq": "55",
+    "t_start": 2854.852,
+    "t_end": 2904.151,
+    "t_duration": 49.299,
+    "audioPath": "reverses/chunk_54.mp3"
+  },
+  {
+    "blockSeq": "56",
+    "t_start": 2904.193,
+    "t_end": 3131.67,
+    "t_duration": 227.477,
+    "audioPath": "reverses/chunk_55.mp3"
+  },
+  {
+    "blockSeq": "57",
+    "t_start": 3131.712,
+    "t_end": 3237.484,
+    "t_duration": 105.772,
+    "audioPath": "reverses/chunk_56.mp3"
+  },
+  {
+    "blockSeq": "58",
+    "t_start": 3237.526,
+    "t_end": 3282.404,
+    "t_duration": 44.878,
+    "audioPath": "reverses/chunk_57.mp3"
+  },
+  {
+    "blockSeq": "59",
+    "t_start": 3282.446,
+    "t_end": 3325.906,
+    "t_duration": 43.46,
+    "audioPath": "reverses/chunk_58.mp3"
+  },
+  {
+    "blockSeq": "60",
+    "t_start": 3325.948,
+    "t_end": 3374.83,
+    "t_duration": 48.882,
+    "audioPath": "reverses/chunk_59.mp3"
+  },
+  {
+    "blockSeq": "61",
+    "t_start": 3374.871,
+    "t_end": 3438.268,
+    "t_duration": 63.397,
+    "audioPath": "reverses/chunk_60.mp3"
+  },
+  {
+    "blockSeq": "62",
+    "t_start": 3438.31,
+    "t_end": 3474.179,
+    "t_duration": 35.869,
+    "audioPath": "reverses/chunk_61.mp3"
+  },
+  {
+    "blockSeq": "63",
+    "t_start": 3474.221,
+    "t_end": 3573.32,
+    "t_duration": 99.099,
+    "audioPath": "reverses/chunk_62.mp3"
+  },
+  {
+    "blockSeq": "64",
+    "t_start": 3573.361,
+    "t_end": 3632.587,
+    "t_duration": 59.226,
+    "audioPath": "reverses/chunk_63.mp3"
+  },
+  {
+    "blockSeq": "65",
+    "t_start": 3632.629,
+    "t_end": 3671.668,
+    "t_duration": 39.039,
+    "audioPath": "reverses/chunk_64.mp3"
+  },
+  {
+    "blockSeq": "66",
+    "t_start": 3671.71,
+    "t_end": 3743.281,
+    "t_duration": 71.572,
+    "audioPath": "reverses/chunk_65.mp3"
+  },
+  {
+    "blockSeq": "67",
+    "t_start": 3743.323,
+    "t_end": 3781.569,
+    "t_duration": 38.247,
+    "audioPath": "reverses/chunk_66.mp3"
+  },
+  {
+    "blockSeq": "68",
+    "t_start": 3781.611,
+    "t_end": 3801.423,
+    "t_duration": 19.811,
+    "audioPath": "reverses/chunk_67.mp3"
+  },
+  {
+    "blockSeq": "69",
+    "t_start": 3801.464,
+    "t_end": 3829.242,
+    "t_duration": 27.778,
+    "audioPath": "reverses/chunk_68.mp3"
+  },
+  {
+    "blockSeq": "70",
+    "t_start": 3829.284,
+    "t_end": 4018.348,
+    "t_duration": 189.064,
+    "audioPath": "reverses/chunk_69.mp3"
+  },
+  {
+    "blockSeq": "71",
+    "t_start": 4018.389,
+    "t_end": 4066.312,
+    "t_duration": 47.923,
+    "audioPath": "reverses/chunk_70.mp3"
+  },
+  {
+    "blockSeq": "72",
+    "t_start": 4066.354,
+    "t_end": 4131.878,
+    "t_duration": 65.524,
+    "audioPath": "reverses/chunk_71.mp3"
+  },
+  {
+    "blockSeq": "73",
+    "t_start": 4131.919,
+    "t_end": 4161.532,
+    "t_duration": 29.613,
+    "audioPath": "reverses/chunk_72.mp3"
+  },
+  {
+    "blockSeq": "74",
+    "t_start": 4161.574,
+    "t_end": 4219.006,
+    "t_duration": 57.432,
+    "audioPath": "reverses/chunk_73.mp3"
+  },
+  {
+    "blockSeq": "75",
+    "t_start": 4219.048,
+    "t_end": 4258.921,
+    "t_duration": 39.873,
+    "audioPath": "reverses/chunk_74.mp3"
+  },
+  {
+    "blockSeq": "76",
+    "t_start": 4258.963,
+    "t_end": 4380.96,
+    "t_duration": 121.997,
+    "audioPath": "reverses/chunk_75.mp3"
+  },
+  {
+    "blockSeq": "77",
+    "t_start": 4381.002,
+    "t_end": 4466.754,
+    "t_duration": 85.752,
+    "audioPath": "reverses/chunk_76.mp3"
+  },
+  {
+    "blockSeq": "78",
+    "t_start": 4466.796,
+    "t_end": 4752.748,
+    "t_duration": 285.952,
+    "audioPath": "reverses/chunk_77.mp3"
+  }
+]

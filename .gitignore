@@ -1,0 +1,5 @@
+node_modules
+source_audio*
+reverses
+silence
+output_audio*
